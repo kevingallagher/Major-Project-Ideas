@@ -1,4 +1,4 @@
-## Major Project Ideas x3
+# Major Project Ideas x3
 
 #2minutepickup- greener initiative app
 ===========
