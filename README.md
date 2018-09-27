@@ -5,16 +5,17 @@
  
 ## Overview
 
-Its time for us all to take some initiative and help clean up our planet. Some of you my be aware of The North Atlantic Garbage Patch. The patch is twice the size of Texas and can be 9 foot in depth. Made up all man made plastics that have found their way into steams and rivers. If you haven’t already take some time to watch BBCs Blue Planet II, please do.
-So now we all know that a our planet is overflowing with our man made plastics. What do we do?
+Some of you my be aware of The North Atlantic Garbage Patch. The shameful floating rubbish pile is twice the size of Texas and can be 9 foot in depth. All made up form man made plastics that have found their way into steams and rivers and has collected in the Atlantic. If you haven’t already, plaese take some time to watch the BBCs Blue Planet II.
+So now we all know that a our oceans are overflowing with man made plastics. What do we do? We start today.
 
-This app is an environmental clean up initiative. Inspired by a few hashtags I’ve seen on Twitter and Instagram. #beachcleanup and #3pop (3 pieces of plastic).
+This app is an environmental clean up initiative. Inspired by a few hashtags I’ve seen on Twitter and Instagram. #beachcleanup #banthebutt (cig butts) and #3pop (3 pieces of plastic).
 
 The app would notify users to mindful and aware of the rubbish we tread on and pass by on our streets daily.
-Tasks can be set of daily or weekly challenges. 
-The daily reminders will task you to do your part and pick up a number from 1 and 5 pieces of plastic and to dispose of them correctly. With daily rewards and badges with consecutive streak. Or you can try our weekly challenges to go a full week with out making any plastic waste then share your experience with the community!
+Tasks can be set to daily or weekly challenges. 
+The daily reminders will task you to do your part and pick up a number from 1 and 5 pieces of plastic and to dispose of them correctly. With daily rewards and badges with consecutive streaks. 
+Or you can try our weekly challenges to go a full week with out making any plastic waste then share your experience with the community!
 
-This app will serve as a hub for a community green awareness. Interact and meet with fellow green doers. There would be community days where individuals can gather in a certain places to help clean up a stream, park or beach. 
+This app will serve as a community hub for green awareness. Interact and meet with fellow green doers. There would be community days where individuals can gather in a certain places to help clean up a stream, park or beach. 
 
 ## Pros and Cons
 
@@ -74,7 +75,7 @@ This app can be synced to your Smart watch to monitor sleep, or with other mindf
 
 **Con**
 
-* Many wellness apps out there.
+* A lot of wellness apps out there.
 
 ## How might it be built?
 
