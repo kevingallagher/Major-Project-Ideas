@@ -1,8 +1,8 @@
 # Major Project Ideas x3
 
 
-## #2minutepickup- greener initiative app
-
+## Greener initiative app (working name)
+ 
 ## Overview
 
 Its time for us all to take some initiative and help clean up our planet. Some of you my be aware of The North Atlantic Garbage Patch. The patch is twice the size of Texas and can be 9 foot in depth. Made up all man made plastics that have found their way into steams and rivers. If you haven’t already take some time to watch BBCs Blue Planet II, please do.
@@ -52,7 +52,7 @@ Could be a government run app to help with reducing waste and protecting parks a
 ----------------------------------------------------------------------------
 
 
-## REFLECT an Overall Wellness Reflection App
+## REFLECT : Overall Wellness Reflection App
 
 
 ## Overview
@@ -94,7 +94,7 @@ Freemium, free to use however pay more to unlock more content and interact with 
 ----------------------------------------------------------------------------
 
 
-## Route: a Running/jogging App
+## Route : a Running/jogging route planning App
 
 ## Overview
 
