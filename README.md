@@ -126,16 +126,15 @@ A feature of the app would be a weekly km goal. This is something I struggled wi
 * A lot of competition with other fitness apps
 * This app would be only a concept, as I would not be able to code an application with relies on calling in and layering different APIs.
 
-
 ## How might it be built?
-
 
 Prototyped in Invision and after effects
 
 ## Who’s it for ?
 
-People moving the technology driving motivations of the modern gym, to the often dizzyingly vast open outdoors
-Beginner runners
+* Outdoor running beginners.
+
+People moving from the technology driving machines, were we can precisely control our workouts, to the great outdoors where we are left with only ourselves to guide us.
 
 ## What’s the business model?
 
