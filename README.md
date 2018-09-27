@@ -34,7 +34,7 @@ This app will serve as a community hub for green awareness. Interact and meet wi
 ## How might it be built?
 
 Web or iOS app, with social media campaign and home website.
-I can build the prototype and animate it through aftereffects and invision.
+I can build the prototype and animate it through After Effects and Invision.
 
 ## Who’s it for ?
 
@@ -149,7 +149,4 @@ free with in app advertising.
 Essay Idea
 ===========
 
-## Tech; cause of and solution to all our health problems?
-
-
-
+## Tech; cause and solution for our mental health?
