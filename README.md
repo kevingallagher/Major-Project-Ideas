@@ -1,5 +1,6 @@
 # Major Project Ideas x3
 
+----------------------------------------------------------------------------
 
 ## Greener initiative app (working name)
  
