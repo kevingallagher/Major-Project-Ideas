@@ -107,7 +107,8 @@ The idea for “Route” would be an app that produces routes for running. Whate
 
 **Pro**
 
-* Plans route planning simple and exact
+* Plans routes simply
+* Ajustable difficulites
 * Great for beginner runners
 
 **Con**
