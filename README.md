@@ -5,12 +5,12 @@
 
 ## Overview
 
-Its time for us all to take some initiative and help clean up our planet. Some of you my be aware of The North Atlantic Garbage Patch. The patch is twice the size of Texas and can be 9 foot in depth. Made up all man made plastics that have found their way into steams and rivers. If you haven’t already take some time to watch BBCs Blue Planet II.
+Its time for us all to take some initiative and help clean up our planet. Some of you my be aware of The North Atlantic Garbage Patch. The patch is twice the size of Texas and can be 9 foot in depth. Made up all man made plastics that have found their way into steams and rivers. If you haven’t already take some time to watch BBCs Blue Planet II, please do.
 So now we all know that a our planet is overflowing with our man made plastics. What do we do?
 
 This app is an environmental clean up initiative. Inspired by a few hashtags I’ve seen on Twitter and Instagram. #beachcleanup and #3pop (3 pieces of plastic).
 
-The app would notify users to mindful and aware of the rubbish tread on and pass on our streets daily.
+The app would notify users to mindful and aware of the rubbish we tread on and pass by on our streets daily.
 Tasks can be set of daily or weekly challenges. 
 The daily reminders will task you to do your part and pick up a number from 1 and 5 pieces of plastic and to dispose of them correctly. With daily rewards and badges with consecutive streak. Or you can try our weekly challenges to go a full week with out making any plastic waste then share your experience with the community!
 
@@ -18,33 +18,33 @@ This app will serve as a hub for a community green awareness. Interact and meet 
 
 ## Pros and Cons
 
-Pro
+**Pro**
 
-Cleaner environment
-Less plastics in our oceans 
-Less contaminations in our water and food supplies
-Community building
+* Cleaner environment
+* Less plastics in our oceans 
+* Less contaminations in our water and food supplies
+* Community building
 
-Con
+**Con**
 
-Could be taking away jobs from council cleaners
+* Could be taking away jobs
+* May need lots of funding
 
 ## How might it be built?
 
 Web or iOS app, with social media campaign.
-
 I can build the prototype and animate it through aftereffects and invision.
 
 ## Who’s it for ?
 
-18-35 young adults
-Environmentally conscious
+* 18-35 young adults
+* Environmentally conscious
 
 ## What’s the business model?
 
 Freemium, free to download and use and to help spread awareness, can pay more money to get more heavily involved. t-shirts, hats, bags made from recycled materials.
 
-Or 
+**Or** 
 
 Could be a government run app to help with reducing waste and protecting parks and beaches.
 
@@ -66,15 +66,15 @@ This app can be synced to your Smart watch to monitor sleep, or with other mindf
 
 ## Pros and Cons
 
-Pro
+**Pro**
 
-Increased emotional awareness and mindfullness.
-A place to vent.
-A place to reflect.
+* Increased emotional awareness and mindfullness.
+* A place to vent.
+* A place to reflect.
 
-Con
+**Con**
 
-Alot of wellness apps out there.
+* Many wellness apps out there.
 
 ## How might it be built?
 
@@ -83,9 +83,9 @@ Sell the idea through animated shorts using aftereffects.
 
 ## Who’s it for ?
 
-16-35 young adults
-Those struggling with clouded minds
-Over thinkers
+* 16-35 young adults
+* Those struggling with clouded minds
+* Over thinkers
 
 ## What’s the business model?
 
@@ -105,14 +105,14 @@ The idea for “Route” would be an app that produces routes for running. Whate
 
 ## Pros and Cons
 
-Pro
+**Pro**
 
-Plans route planning simple and exact
-Great for beginner runners
+* Plans route planning simple and exact
+* Great for beginner runners
 
-Con
+**Con**
 
-A lot of competition with other fitness apps
+* A lot of competition with other fitness apps
 
 ## How might it be built?
 
@@ -125,7 +125,10 @@ Beginner runners
 ## What’s the business model?
 
 Pitched towards larger sports companies
-Or free with in app advertising.
+
+**Or**
+
+free with in app advertising.
 
 ----------------------------------------------------------------------------
 
