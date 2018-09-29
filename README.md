@@ -89,10 +89,9 @@ Sell the idea through animated shorts using aftereffects.
 
 ## Who’s it for?
 
-* 11- early 20s
-* Those struggling with examinations stress
-* Those struggling with clouded minds
-* Over thinkers
+* Those who are adjusting secondary school and university life. 11- early 20s.
+* Those struggling with examinations stress and with clouded minds.
+* People who find themselves constantly overthinking.
 
 ## What’s the business model?
 
@@ -119,6 +118,7 @@ A feature of the app would be a weekly km goal. This is something I struggled wi
 * Plans routes simply
 * Adjustable difficulties
 * Great for beginner runners
+* I can use my
 
 **Con**
 
@@ -148,4 +148,4 @@ free with in-app advertising.
 Essay Idea
 ===========
 
-## Technology; cause and solution to our Digital Wellness?
+## Is Tech our Digital Wellness cause or solution?
