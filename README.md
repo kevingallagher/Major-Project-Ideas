@@ -13,20 +13,20 @@ This app is an environmental cleanup initiative. Inspired by a few hashtags I’
 The app would notify users to be mindful and aware of the rubbish we tread on and pass by on our streets daily.
 Tasks can be set to daily or weekly challenges. 
 The daily reminders will encourage you to do your part and pick up 1 to 5 pieces of plastic and to dispose of them correctly. This will lead to users collecting daily rewards and badges for consecutive streaks. 
-Or you can take part in our weekly challenges. Try to go a full week without making any plastic waste, then share your full experience with the community!
+You can also take part in our weekly challenges. Try to go a full week without making any plastic waste, then share your full experience with the community!
 
 This app will serve as a community hub for green awareness. Interact and meet with fellow green doers. There would be community days where individuals can gather in certain places to help clean up a stream, park or beach. 
 
 ## Pros and Cons
 
-**Pro**
+**Pros**
 
-* Community building
-* Fewer plastics in our oceans
+* Brings people all acroos the community together for one cause.
+* Fewer plastics in our oceans.
 * I believe I could create a website to promote this initiative as I have sufficient skills in HTML and CSS. 
 * I would also mock up a prototype of the app using Sketch and Invision.
 
-**Con**
+**Cons**
 
 * At the moment I lack the skills to create web or iOS apps, however, I am not afraid to get stuck into some tutorials and further my skills.
 * This would require a lot of marketing and social media awareness. Something I would need to learn for this app to be successful.
@@ -64,19 +64,18 @@ Anxiety, overthinking and stress. These are common health issues affecting so ma
 
 A series of simple questions to answer at the end of the day to encourage a little reflection. Something that made you smile, a thought that got you thinking, or a mood you felt, what you felt when it started raining or even just “how are you feeling today?”.
 Learning to reflect and be aware is key to understanding where your feelings are coming from.
-Over time, either weekly or monthly, you can view your collected data. This little time of reflection your can become easier to understand clouded emotions. 
+Over time, either weekly or monthly, you can view your collected data. This little time of reflection and seeing your emotions visiually your can, may make it easier to understand your clouded emotions. 
 This app can be synced to your Smartwatch to monitor sleep or with other mindfulness apps such as Myfitnesspal to track your eating habits and exercise.
 
 ## Pros and Cons
 
-**Pro**
+**Pros**
 
 * Increased emotional awareness and mindfulness.
-* A place to vent.
-* A place to reflect.
+* A place to vent, but also a place to reflect.
 * I feel my skills lie in illustration. I can create relatable characters for the age range I am focusing on and animate them in After Effects. I would take inspirations from the character from the app “Headspace”.
 
-**Con**
+**Cons**
 
 * I'm not a counsellor, so this app will need a lot of research to complete.
 * A lot of wellness apps out there and an app like this would likely need government funding to stand a chance against the competition.
@@ -85,11 +84,11 @@ This app can be synced to your Smartwatch to monitor sleep or with other mindful
 
 I would prototype the app in using Invision and Sketch.
 I can use my skilling HTML and CSS to create and a website that directs users to the app store.
-Sell the idea through animated shorts using aftereffects.
+Sell the idea through animated shorts using After Effects.
 
 ## Who’s it for?
 
-* Those who are adjusting secondary school and university life. 11- early 20s.
+* Those who are adjusting secondary school and university life. 11 - early 20s.
 * Those struggling with examinations stress and with clouded minds.
 * People who find themselves constantly overthinking.
 
@@ -104,8 +103,8 @@ Freemium, free to use however pay more to unlock more content and interact with 
 
 ## Overview
 
-This year I tasked myself with a new years resolution of starting to move more. After a couple months of struggling at the gym, I found running was my go-to for cardio training. Taking that next step away from trusty treadmill where I had full control over how fast I ran, my pacing and even the surface gradients, was a little unnerving. If I was going to take part in a half marathon I needed to step outside of my comfort zone and hit the roads. 
-I downloaded a few running apps to help with adjustment, Mapmyrun, and Strava. As someone that likes to plan their runs ahead of time and their kilometres for the week, I found it hard to envision new routes that were a certain amount of kilometres. this was especially so in the beginning. I was also trying to guess how hilly a new route would be. If was looking to do distance and there were too many hills would be walking back?
+This year I tasked myself with a new years resolution of starting to move more. After a couple months of struggling at the gym, I found running was my go-to for cardio training. Taking that next step away from the trusty treadmill, where I had full control over how fast I ran, my pacing and even the surface gradients, was a little unnerving. If I was going to take part in a half marathon I needed to step outside of my comfort zone and hit the roads. 
+I downloaded a few running apps to help with adjustment, Mapmyrun, and Strava. As someone that likes to plan their runs ahead of time and their kilometres for the week, I found it hard to envision new routes that were a certain amount of kilometres. This was especially so in the beginning. I was also trying to guess how hilly a new route would be. If was looking to do distance and there were too many hills would be walking back?
 
 The idea for this is that the app would produce routes for running depending on that particular user's needs. The distance or difficulty you are aiming for can be controlled by you within the app. You may want 5k with some hills, or a 10k on flat ground, this app will use your location at that moment to map out your preferred route. At the same time, the app can suggest the perfect starting point that best matches your preferred settings.
 
@@ -113,21 +112,20 @@ A feature of the app would be a weekly km goal. This is something I struggled wi
 
 ## Pros and Cons
 
-**Pro**
+**Pros**
 
-* Plans routes simply
-* Adjustable difficulties
-* Great for beginner runners
-* I can use my
+* Plans routes simply.
+* Adjustable difficulties set to the individuals needs.
+* Great for beginner runners getting used to graidents and visualising distances.
 
-**Con**
+**Cons**
 
-* A lot of competition with other fitness apps
+* A lot of competition with other fitness apps.
 * This app would be only a concept, as I would not be able to code an application with relies on calling in and layering different APIs.
 
 ## How might it be built?
 
-Prototyped in Invision and after effects
+Prototyped in Invision and after effects.
 
 ## Who’s it for?
 
@@ -137,7 +135,7 @@ People moving from the technology driving machines, where we can precisely contr
 
 ## What’s the business model?
 
-Pitched towards larger sports companies
+Pitched towards larger sports companies as a fitness aid
 
 **Or**
 
